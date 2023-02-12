@@ -1,0 +1,12 @@
+[02:29:21 [32minfo[39m]: Logger started
+[02:29:57 [31merror[39m]: unhandledRejection: Cannot access 'clave' before initialization
+ReferenceError: Cannot access 'clave' before initialization
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\⭐ Premium\premium.js:12:49)
+    at module.exports (C:\Users\E7470\Documents\Mr. Rubio\eventos\guild\messageCreate.js:38:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[02:30:32 [32minfo[39m]: Logger started
+[02:31:11 [32minfo[39m]: Logger started
+[02:34:17 [32minfo[39m]: Logger started
+[02:35:36 [32minfo[39m]: Logger started
+[03:22:42 [32minfo[39m]: Logger started
+[03:24:00 [32minfo[39m]: Logger started

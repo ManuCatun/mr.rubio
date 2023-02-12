@@ -1,0 +1,74 @@
+[21:30:58 [32minfo[39m]: Logger started
+[22:26:28 [31merror[39m]: unhandledRejection: Invalid Form Body
+message_reference[REPLIES_UNKNOWN_MESSAGE]: Unknown message
+DiscordAPIError[50035]: Invalid Form Body
+message_reference[REPLIES_UNKNOWN_MESSAGE]: Unknown message
+    at SequentialHandler.runRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:659:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:458:14)
+    at async REST.request (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:902:22)
+    at async TextChannel.send (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:175:15)
+[22:28:41 [32minfo[39m]: Logger started
+[22:34:39 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:35:46 [32minfo[39m]: Logger started
+[22:35:57 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:36:04 [32minfo[39m]: Logger started
+[22:36:29 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'tag')
+TypeError: Cannot read properties of undefined (reading 'tag')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:255
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:38:58 [32minfo[39m]: Logger started
+[22:39:53 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:40:17 [32minfo[39m]: Logger started
+[22:43:26 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:43:32 [32minfo[39m]: Logger started
+[22:44:21 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[22:44:27 [32minfo[39m]: Logger started
+[22:48:34 [31merror[39m]: unhandledRejection: Cannot read properties of undefined (reading 'user')
+TypeError: Cannot read properties of undefined (reading 'user')
+    at C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:248
+    at Array.map (<anonymous>)
+    at Proxy.methods.<computed> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\types\array\methods\index.js:956:24)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\warnings.js:17:37)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at runNextTicks (node:internal/process/task_queues:65:3)
+    at processImmediate (node:internal/timers:437:9)
+[22:48:39 [32minfo[39m]: Logger started
+[02:00:52 [32minfo[39m]: Logger started
+[02:17:03 [32minfo[39m]: Logger started

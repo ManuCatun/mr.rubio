@@ -1,0 +1,2 @@
+[20:37:37 [32minfo[39m]: Logger started
+[20:40:30 [31merror[39m]: Cannot read properties of null (reading 'prefijo')
