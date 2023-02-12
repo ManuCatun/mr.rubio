@@ -1,0 +1,14 @@
+[19:58:51 [32minfo[39m]: Logger started
+[20:01:27 [31merror[39m]: unhandledRejection: You can only bulk delete messages that are under 14 days old.
+DiscordAPIError[50034]: You can only bulk delete messages that are under 14 days old.
+    at SequentialHandler.runRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:743:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:549:14)
+    at async REST.request (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:988:22)
+    at async TextChannel.bulkDelete (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:310:7)
+[21:33:11 [32minfo[39m]: Logger started
+[21:33:25 [31merror[39m]: unhandledRejection: Operation `sorteos.findOne()` buffering timed out after 10000ms
+MongooseError: Operation `sorteos.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)

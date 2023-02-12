@@ -1,0 +1,48 @@
+[13:41:45 [32minfo[39m]: Logger started
+[13:44:06 [32minfo[39m]: Logger started
+[13:47:05 [32minfo[39m]: Logger started
+[14:58:42 [32minfo[39m]: Logger started
+[15:08:42 [32minfo[39m]: Logger started
+[15:09:40 [32minfo[39m]: Logger started
+[15:23:53 [32minfo[39m]: Logger started
+[15:24:19 [32minfo[39m]: Logger started
+[15:24:59 [32minfo[39m]: Logger started
+[15:25:11 [32minfo[39m]: Logger started
+[15:28:35 [32minfo[39m]: Logger started
+[15:28:52 [31merror[39m]: Cannot read properties of undefined (reading 'run')
+[15:40:54 [32minfo[39m]: Logger started
+[17:34:53 [32minfo[39m]: Logger started
+[18:37:31 [32minfo[39m]: Logger started
+[18:39:44 [32minfo[39m]: Logger started
+[18:39:54 [31merror[39m]: unhandledRejection: Message content must be a string.
+RangeError [MessageContentType]: Message content must be a string.
+    at verifyString (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\util\Util.js:357:39)
+    at MessagePayload.makeContent (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:110:17)
+    at MessagePayload.resolveBody (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:125:26)
+    at TextChannel.send (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:169:32)
+    at Message.reply (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\Message.js:799:25)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\🪁 Juegos\snake.js:17:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[18:40:36 [32minfo[39m]: Logger started
+[18:42:44 [31merror[39m]: unhandledRejection: Message content must be a string.
+RangeError [MessageContentType]: Message content must be a string.
+    at verifyString (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\util\Util.js:357:39)
+    at MessagePayload.makeContent (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:110:17)
+    at MessagePayload.resolveBody (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:125:26)
+    at TextChannel.send (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:169:32)
+    at Message.reply (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\Message.js:799:25)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\🪁 Juegos\snake.js:17:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[18:43:31 [32minfo[39m]: Logger started
+[18:43:41 [31merror[39m]: unhandledRejection: Message content must be a string.
+RangeError [MessageContentType]: Message content must be a string.
+    at verifyString (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\util\Util.js:357:39)
+    at MessagePayload.makeContent (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:110:17)
+    at MessagePayload.resolveBody (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\MessagePayload.js:125:26)
+    at TextChannel.send (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:169:32)
+    at Message.reply (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\Message.js:799:25)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\🪁 Juegos\snake.js:17:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[18:43:56 [32minfo[39m]: Logger started
+[19:56:20 [32minfo[39m]: Logger started
+[21:39:58 [31merror[39m]: Received one or more errors

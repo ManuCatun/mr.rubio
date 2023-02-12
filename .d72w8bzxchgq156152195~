@@ -1,0 +1,6 @@
+[17:39:59 [32minfo[39m]: Logger started
+[17:43:14 [32minfo[39m]: Logger started
+[17:43:45 [31merror[39m]: unhandledRejection: EmbdBuilder is not defined
+ReferenceError: EmbdBuilder is not defined
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\🔔 Info\ping.js:22:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

@@ -1,0 +1,31 @@
+[13:54:50 [32minfo[39m]: Logger started
+[14:13:36 [32minfo[39m]: Logger started
+[14:30:07 [32minfo[39m]: Logger started
+[14:31:07 [32minfo[39m]: Logger started
+[14:37:44 [32minfo[39m]: Logger started
+[14:42:11 [32minfo[39m]: Logger started
+[14:43:19 [32minfo[39m]: Logger started
+[14:44:23 [32minfo[39m]: Logger started
+[14:45:55 [31merror[39m]: unhandledRejection: Invalid Form Body
+allowed_mentions[MODEL_TYPE_CONVERT]: Only dictionaries may be used in a ModelType
+DiscordAPIError[50035]: Invalid Form Body
+allowed_mentions[MODEL_TYPE_CONVERT]: Only dictionaries may be used in a ModelType
+    at SequentialHandler.runRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:743:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async SequentialHandler.queueRequest (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:549:14)
+    at async REST.request (C:\Users\E7470\Documents\Mr. Rubio\node_modules\@discordjs\rest\dist\index.js:988:22)
+    at async TextChannel.send (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:175:15)
+[14:46:22 [32minfo[39m]: Logger started
+[14:52:17 [32minfo[39m]: Logger started
+[15:07:29 [32minfo[39m]: Logger started
+[18:21:50 [32minfo[39m]: Logger started
+[18:42:39 [32minfo[39m]: Logger started
+[18:43:17 [32minfo[39m]: Logger started
+[18:45:10 [32minfo[39m]: Logger started
+[20:00:04 [32minfo[39m]: Logger started
+[21:49:50 [32minfo[39m]: Logger started
+[22:11:37 [32minfo[39m]: Logger started
+[22:29:21 [32minfo[39m]: Logger started
+[22:30:46 [32minfo[39m]: Logger started
+[22:31:40 [32minfo[39m]: Logger started
+[22:34:58 [32minfo[39m]: Logger started
