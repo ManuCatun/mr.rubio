@@ -1,0 +1,17 @@
+[20:12:33 [32minfo[39m]: Logger started
+[20:12:37 [31merror[39m]: Discord is not defined
+[20:12:46 [31merror[39m]: unhandledRejection: Operation `sorteos.findOne()` buffering timed out after 10000ms
+MongooseError: Operation `sorteos.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[20:13:06 [32minfo[39m]: Logger started
+[20:13:09 [31merror[39m]: client.logger is not a function
+[20:13:18 [31merror[39m]: unhandledRejection: Operation `sorteos.findOne()` buffering timed out after 10000ms
+MongooseError: Operation `sorteos.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\E7470\Documents\Mr. Rubio\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:151:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[20:13:28 [32minfo[39m]: Logger started
+[20:17:21 [32minfo[39m]: Logger started
+[20:17:51 [32minfo[39m]: Logger started

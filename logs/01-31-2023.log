@@ -1,0 +1,26 @@
+[13:30:43 [32minfo[39m]: Logger started
+[13:39:54 [32minfo[39m]: Logger started
+[14:59:11 [32minfo[39m]: Logger started
+[15:32:59 [31merror[39m]: unhandledRejection: Invalid bitfield flag or number: VIEW_CHANNEL.
+RangeError [BitFieldInvalid]: Invalid bitfield flag or number: VIEW_CHANNEL.
+    at Function.resolve (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\util\BitField.js:168:11)
+    at PermissionsBitField.remove (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\util\BitField.js:105:33)
+    at Function.resolveOverwriteOptions (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\PermissionOverwrites.js:130:15)
+    at PermissionOverwriteManager.upsert (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\managers\PermissionOverwriteManager.js:105:50)
+    at PermissionOverwriteManager.edit (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\managers\PermissionOverwriteManager.js:150:17)
+    at InteractionCollector.<anonymous> (C:\Users\E7470\Documents\Mr. Rubio\handlers\tickets.js:123:66)
+    at InteractionCollector.emit (node:events:525:35)
+    at InteractionCollector.handleCollect (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\interfaces\Collector.js:119:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[15:35:22 [32minfo[39m]: Logger started
+[17:22:38 [32minfo[39m]: Logger started
+[17:56:56 [32minfo[39m]: Logger started
+[18:13:22 [32minfo[39m]: Logger started
+[18:14:44 [32minfo[39m]: Logger started
+[18:15:05 [32minfo[39m]: Logger started
+[22:10:24 [32minfo[39m]: Logger started
+[22:14:28 [31merror[39m]: Cannot read properties of undefined (reading 'guild')
+[22:15:05 [31merror[39m]: Cannot read properties of undefined (reading 'guild')
+[22:16:00 [32minfo[39m]: Logger started
+[22:16:11 [31merror[39m]: Cannot read properties of undefined (reading 'guild')

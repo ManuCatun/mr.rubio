@@ -1,0 +1,17 @@
+[15:23:19 [32minfo[39m]: Logger started
+[15:24:31 [32minfo[39m]: Logger started
+[00:09:07 [32minfo[39m]: Logger started
+[00:11:10 [31merror[39m]: unhandledRejection: Invalid time value
+RangeError: Invalid time value
+    at Date.toISOString (<anonymous>)
+    at GuildMemberManager.edit (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\managers\GuildMemberManager.js:313:55)
+    at GuildMember.edit (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\GuildMember.js:314:31)
+    at GuildMember.disableCommunicationUntil (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\GuildMember.js:380:17)
+    at GuildMember.timeout (C:\Users\E7470\Documents\Mr. Rubio\node_modules\discord.js\src\structures\GuildMember.js:396:17)
+    at Object.run (C:\Users\E7470\Documents\Mr. Rubio\comandos\👮🏼‍♂️ Moderación\timeout.js:48:25)
+    at module.exports (C:\Users\E7470\Documents\Mr. Rubio\eventos\guild\messageCreate.js:29:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[00:15:18 [32minfo[39m]: Logger started
+[00:22:37 [32minfo[39m]: Logger started
+[00:23:50 [32minfo[39m]: Logger started
+[00:39:05 [32minfo[39m]: Logger started
