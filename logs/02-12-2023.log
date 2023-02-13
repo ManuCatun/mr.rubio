@@ -28,3 +28,16 @@ Error [TokenInvalid]: An invalid token was provided.
 [21:50:52 [32minfo[39m]: Logger started
 [01:47:58 [32minfo[39m]: Logger started
 [01:52:41 [32minfo[39m]: Logger started
+[01:53:37 [32minfo[39m]: Logger started
+[01:53:42 [31merror[39m]: unhandledRejection: An invalid token was provided.
+Error [TokenInvalid]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\E7470\Documents\Mr. Rubio V14\node_modules\discord.js\src\client\websocket\WebSocketManager.js:134:26)
+    at Client.login (C:\Users\E7470\Documents\Mr. Rubio V14\node_modules\discord.js\src\client\Client.js:232:21)
+    at Object.<anonymous> (C:\Users\E7470\Documents\Mr. Rubio V14\index.js:31:8)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[01:56:47 [32minfo[39m]: Logger started
