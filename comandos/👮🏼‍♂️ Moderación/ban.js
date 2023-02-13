@@ -10,7 +10,7 @@ module.exports = {
 
         //Definimos la persona a banear
         let usuario = message.guild.members.cache.get(args[0]) || message.mentions.members.first();
-        if (!usuario) return message.reply(`<:nope_normal:1012749750459695114> *| No se ha encontrado el usuario que has especificado!*`)
+        if (!usuario) return message.reply(`<:nope_normal:1012749750459695114> **| No se ha encontrado el usuario que has especificado!**`)
         let razon = args.slice(1).join(" ") || "No especificado"
 
         //Comprobar roles del bot
@@ -25,7 +25,7 @@ module.exports = {
                     .setDescription(`**Razón:** \n\`\`\`yml\n${razon}\`\`\``)
                     .setColor(client.color)
                     .setTimestamp()
-                ] }).catch(() => { message.reply(`<:error:1012451217693221015> *| No he podido enviarle el mensaje al usuario!*`)});
+                ] }).catch(() => { message.reply(`<:error:1012451217693221015> **| No he podido enviarle el mensaje al usuario!**`)});
                 
                 //enviamos un embed al canal
                 message.reply({ embeds: [
@@ -39,10 +39,10 @@ module.exports = {
 
                 usuario.ban({ reason: razon })
             } else {
-                return message.reply(`<:nope_normal:1012749750459695114> *| Tu rol está por __debajo__ del usuario que quieres banear!*`)
+                return message.reply(`<:nope_normal:1012749750459695114> **| Tu rol está por __debajo__ del usuario que quieres banear!**`)
             }
         } else {
-            return message.reply(`<:nope_normal:1012749750459695114> *| Mi rol está por __debajo__ del usuario que quieres banear!*`)
+            return message.reply(`<:nope_normal:1012749750459695114> **| Mi rol está por __debajo__ del usuario que quieres banear!**`)
         }
 
     }

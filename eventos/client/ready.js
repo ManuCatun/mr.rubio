@@ -19,7 +19,7 @@ module.exports = async client => {
 
     const activities = [
         { name: `${client.guilds.cache.size} Servidores`, type: ActivityType.Competing },
-        { name: `CONTANDO OVEJAS| WOS`, type: ActivityType.Listening },
+        { name: `${config.actividad}`, type: ActivityType.Listening },
         { name: `-help`, type: ActivityType.Watching },
         { name: `PC???`, type: ActivityType.Playing }
     ];

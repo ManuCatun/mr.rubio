@@ -1,10 +1,11 @@
 {
-    "token": "OTY2MDM1MzU0MDkwMDg2NTEx.GqtX4Q.8c16EQkkmMb7bI2fHzCzg2yGmzJSBRDnfmVBfY",
+    "token": "OTY2MDM1MzU0MDkwMDg2NTEx.G9t2Mg.RARuSuyW_ueGi3VQQFnccmwOhDPMbjM1q_2ZwE",
     "prefix": "-",
     "mongodb": "mongodb+srv://Manu:manu2022@cluster0.pb8oxbw.mongodb.net/?retryWrites=true&w=majority",
     "color": "Blurple",
     "ownerIDS": [
         "758098123829805088",
         "953346883173122108"
-    ]
+    ],
+    "actividad": "Mil Puertas | Dani Ribba"
 }
