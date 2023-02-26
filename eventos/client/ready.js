@@ -21,7 +21,7 @@ module.exports = async client => {
         { name: `${client.guilds.cache.size} Servidores`, type: ActivityType.Competing },
         { name: `${config.actividad}`, type: ActivityType.Listening },
         { name: `-help`, type: ActivityType.Watching },
-        { name: `PC???`, type: ActivityType.Playing }
+        { name: `PanaC???`, type: ActivityType.Playing }
     ];
     const status = [
         'online',
