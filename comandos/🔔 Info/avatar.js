@@ -19,9 +19,9 @@ module.exports = {
             const color = await getAverageColor(usuario.user.avatarURL());
             const hexColor = color.hex;
 
-            let png = usuario.user.AvatarURL({ format: "png", size: 1024, dynamic: true })
-            let jpg = usuario.user.AvatarURL({ format: "jpg", size: 1024, dynamic: true })
-            let webp = usuario.user.AvatarURL({ format: "webp", size: 1024, dynamic: true })
+            let png = usuario.user.displayAvatarURL({ format: "png", size: 1024, dynamic: true })
+            let jpg = usuario.user.displayAvatarURL({ format: "jpg", size: 1024, dynamic: true })
+            let webp = usuario.user.displayAvatarURL({ format: "webp", size: 1024, dynamic: true })
 
             message.reply({
                 embeds: [
